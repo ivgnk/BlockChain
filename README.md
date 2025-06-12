@@ -101,6 +101,7 @@ https://zengo.com  [not op in ru]
 ## Combine            
 [alfabank.by: Бесплатные карты в Пакетах решений](https://www.alfabank.by/besmart/)        
 **https://www.alfabank.by/partners-project/crypto-card**            
+2024 [youtube.com: Всё про криптовалютный обменник WhiteBird / Обмен, покупка и продажа криптовалюты через Вайтбёрд](https://www.youtube.com/watch?v=9BaV93_XBpE)      
 
 2024 [**Как купить криптовалюту в Беларуси ЛЕГАЛЬНО (и россиянам тоже**)?](https://vc.ru/crypto/1379328-kak-kupit-kriptovalyutu-v-belarusi-legalno-i-rossiyanam-tozhe)         
 
