@@ -100,6 +100,10 @@ https://zengo.com  [not op in ru]
 
 ## Combine            
 2024 [ТОП стран, в которых можно открыть зарубежную банковскую карту удаленно](https://companies.rbc.ru/news/o9GTF4robu/top-stran-v-kotoryih-mozhno-otkryit-zarubezhnuyu-bankovskuyu-kartu-udalenno/)                   
+2025 [Личный опыт открытия карты белорусского банка](https://www.vbr.ru/banki/help/debetovye_karty/otkrytie-karty-belorusskogo-banka/)                
+  
+Подробнее на Выберу.ру:
+https://www.vbr.ru/banki/help/debetovye_karty/otkrytie-karty-belorusskogo-banka/
 
 ### alfabank.by                                   
 [alfabank.by: Бесплатные карты в Пакетах решений](https://www.alfabank.by/besmart/)        
