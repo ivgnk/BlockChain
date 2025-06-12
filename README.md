@@ -119,7 +119,8 @@ https://mbank.kg/tariffs
 2024 [Как перевести деньги из России в Беларусь в 2024 году](https://www.sravni.ru/text/kak-perevesti-dengi-iz-rossii-v-belarus-v-2024-godu/)               
 2025 [Как перевести деньги из России в Белоруссию в 2025 году: все способы](https://www.banki.ru/news/daytheme/?id=11014403)                      
 
-
+### Other
+https://vc.ru/id3858507          
 
 
 
