@@ -68,7 +68,7 @@ https://zengo.com  [not op in ru]
 ### MetaMask
 [ Как добавить Биткоин на кошелёк MetaMask. Binance | Uniswap | MetaMask. Заработок на Bitcoin ](https://www.youtube.com/watch?v=qyYaA-Zx9VE)                            
 
-### 📄 Papers         
+     
 
 # Биржи
 ## Binance
