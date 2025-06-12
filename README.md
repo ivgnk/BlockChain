@@ -30,6 +30,20 @@ Binance Smart Chain (BEP-20) — в среднем транзакционные 
 Solana — стоимость перевода — в среднем около 0,00064 доллара. При выводе с криптобиржи ставка выше — 1–2 доллара. - cryptopitcher.com                 
 Ethereum (ERC-20) — переводы через эту сеть могут стоить от 5 до 50 долларов в зависимости от загруженности сети. - veles.finance                    
 
+2025 [Как отправить USDT на кошелек: способы перевода и распространенные ошибки](https://veles.finance/ru/blog/post/how-send-usdt-methods-blockchain-choice-common-mistakes)           
+Разные сети имеют разные комиссии:                 
+Ethereum (ERC-20): от $5 до $50 в зависимости от загруженности сети                      
+Tron (TRC-20): менее $1 (иногда бесплатно)                       
+BNB Smart Chain (BEP-20): около $0.50                               
+Solana (SPL): менее $0.01                           
+После отправки можно проверить статус транзакции через обозреватели блокчейнов:                         
+Ethereum (ERC-20) – через [Etherscan](https://etherscan.io/)                                      
+Tron (TRC-20) – через [TronScan](https://tronscan.org/)                                   
+BNB Smart Chain (BEP-20) – через BscScan                  
+Polygon (MATIC) – через PolygonScan                  
+Solana (SPL) – через SolScan               
+
+
 2025 [Через какую сеть лучше всего переводить USDT](https://cryptopitcher.com/ru/blog/set-dlya-perevoda-usdt)               
 Наиболе выгоды сети Binance Smart Chain, Solana, Tron (TRC-20)               
 2022 [В чем разница между ERC-20, BEP-20 и TRC-20. Как выбрать сеть для USDT](https://vc.ru/crypto/562930-v-chem-raznica-mezhdu-erc-20-bep-20-i-trc-20-kak-vybrat-set-dlya-usdt)         
