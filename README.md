@@ -71,5 +71,4 @@ MetaMask, Exodus, Binance Chain Wallet
 ## Binance
 [Обходим ограничения Binance 2025 в России. 2 легальных способа](https://tradingstar.org/binance_rf)           
 
-# Брокеры
-Finandy   
+[Обзор криптовалютной биржи Finandy: торговые условия, **мошенничество** и отзывы реальных пользователей](https://cryptorussia.ru/finandy-com-ru-moshennichestvo)                 
