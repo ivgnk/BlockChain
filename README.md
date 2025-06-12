@@ -109,4 +109,12 @@ https://zengo.com  [not op in ru]
 2025 [youtube: Обзор криптокарты от Альфа Банка: Стоит ли её брать?](https://www.youtube.com/watch?v=d6kWmptaptQ)        
 
 2025 [Комиссии и сборы BYNEX](https://www.youtube.com/watch?v=9BaV93_XBpE)                  
+- - -
+### Переводы          
+2024 [Как перевести деньги из России в Беларусь в 2024 году](https://www.sravni.ru/text/kak-perevesti-dengi-iz-rossii-v-belarus-v-2024-godu/)               
+2025 [Как перевести деньги из России в Белоруссию в 2025 году: все способы](https://www.banki.ru/news/daytheme/?id=11014403)                      
+
+
+
+
 
