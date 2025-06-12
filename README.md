@@ -101,7 +101,7 @@ https://zengo.com  [not op in ru]
 ## Combine            
 [alfabank.by: Бесплатные карты в Пакетах решений](https://www.alfabank.by/besmart/)        
 
-2024 [Как купить криптовалюту в Беларуси ЛЕГАЛЬНО (и россиянам тоже)?](https://vc.ru/crypto/1379328-kak-kupit-kriptovalyutu-v-belarusi-legalno-i-rossiyanam-tozhe)         
+2024 [**Как купить криптовалюту в Беларуси ЛЕГАЛЬНО (и россиянам тоже**)?](https://vc.ru/crypto/1379328-kak-kupit-kriptovalyutu-v-belarusi-legalno-i-rossiyanam-tozhe)         
 
 криптокарты от Альфа Банка Беларусь                 
 2025 [youtube: Обзор криптокарты от Альфа Банка: Стоит ли её брать?](https://www.youtube.com/watch?v=d6kWmptaptQ)        
