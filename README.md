@@ -100,6 +100,7 @@ https://zengo.com  [not op in ru]
 
 ## Combine            
 [alfabank.by: Бесплатные карты в Пакетах решений](https://www.alfabank.by/besmart/)        
+**https://www.alfabank.by/partners-project/crypto-card**            
 
 2024 [**Как купить криптовалюту в Беларуси ЛЕГАЛЬНО (и россиянам тоже**)?](https://vc.ru/crypto/1379328-kak-kupit-kriptovalyutu-v-belarusi-legalno-i-rossiyanam-tozhe)         
 
