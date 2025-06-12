@@ -77,6 +77,9 @@ https://www.coinbase.com/ru/wallet  [not op in ru]
 https://guarda.com/ru  [not op in ru]                            
 https://zengo.com  [not op in ru]                            
 
+#### 💜 Trust Wallet
+2024 [Trust Wallet: что это за кошелек, обзор популярного криптокошелька](https://vc.ru/crypto/1199833-trust-wallet-chto-eto-za-koshelek-obzor-populyarnogo-kriptokoshelka)          
+
 Некоторые бесплатные горячие кошельки для криптовалюты: MetaMask, Exodus, Binance Chain Wallet
 
 #### MetaMask
