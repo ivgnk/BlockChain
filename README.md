@@ -41,7 +41,7 @@ Ethereum (ERC-20) – через [Etherscan](https://etherscan.io/)
 Tron (TRC-20) – через [TronScan](https://tronscan.org/)                                   
 BNB Smart Chain (BEP-20) – через BscScan                  
 Polygon (MATIC) – через [PolygonScan](https://polygonscan.com/)                         
-Solana (SPL) – через SolScan               
+Solana (SPL) – через [SolScan](https://solscan.io/)                                 
 
 
 2025 [Через какую сеть лучше всего переводить USDT](https://cryptopitcher.com/ru/blog/set-dlya-perevoda-usdt)               
