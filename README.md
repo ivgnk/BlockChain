@@ -39,7 +39,7 @@ Solana (SPL): менее $0.01
 После отправки можно проверить статус транзакции через обозреватели блокчейнов:                         
 Ethereum (ERC-20) – через [Etherscan](https://etherscan.io/)                                      
 Tron (TRC-20) – через [TronScan](https://tronscan.org/)                                   
-BNB Smart Chain (BEP-20) – через BscScan                  
+BNB Smart Chain (BEP-20) – через [BscScan](https://bscscan.com/)                                        
 Polygon (MATIC) – через [PolygonScan](https://polygonscan.com/)                         
 Solana (SPL) – через [SolScan](https://solscan.io/)                                 
 
