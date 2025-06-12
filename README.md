@@ -107,3 +107,6 @@ https://zengo.com  [not op in ru]
 
 криптокарты от Альфа Банка Беларусь                 
 2025 [youtube: Обзор криптокарты от Альфа Банка: Стоит ли её брать?](https://www.youtube.com/watch?v=d6kWmptaptQ)        
+
+2025 [Комиссии и сборы BYNEX](https://www.youtube.com/watch?v=9BaV93_XBpE)                  
+
