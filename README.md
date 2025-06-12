@@ -63,8 +63,11 @@ https://www.coinbase.com/ru/wallet  [not op in ru]
 https://guarda.com/ru  [not op in ru]                            
 https://zengo.com  [not op in ru]                            
 
-Некоторые бесплатные горячие кошельки для криптовалюты:
-MetaMask, Exodus, Binance Chain Wallet
+Некоторые бесплатные горячие кошельки для криптовалюты: MetaMask, Exodus, Binance Chain Wallet
+
+### MetaMask
+[ Как добавить Биткоин на кошелёк MetaMask. Binance | Uniswap | MetaMask. Заработок на Bitcoin ](https://www.youtube.com/watch?v=qyYaA-Zx9VE)                            
+
 ### 📄 Papers         
 
 # Биржи
