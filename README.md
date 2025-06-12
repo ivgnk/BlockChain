@@ -99,6 +99,7 @@ https://zengo.com  [not op in ru]
 
 
 ## Combine            
+### alfabank.by                                   
 [alfabank.by: Бесплатные карты в Пакетах решений](https://www.alfabank.by/besmart/)        
 https://www.alfabank.by/partners-project/crypto-card            
 2024 [youtube.com: Всё про криптовалютный обменник WhiteBird / Обмен, покупка и продажа криптовалюты через Вайтбёрд](https://www.youtube.com/watch?v=9BaV93_XBpE)      
@@ -109,6 +110,10 @@ https://www.alfabank.by/partners-project/crypto-card
 2025 [youtube: Обзор криптокарты от Альфа Банка: Стоит ли её брать?](https://www.youtube.com/watch?v=d6kWmptaptQ)        
 
 2025 [Комиссии и сборы BYNEX](https://www.youtube.com/watch?v=9BaV93_XBpE)                  
+
+### mbank.kg                  
+https://mbank.kg/tariffs                       
+
 - - -
 ### Переводы          
 2024 [Как перевести деньги из России в Беларусь в 2024 году](https://www.sravni.ru/text/kak-perevesti-dengi-iz-rossii-v-belarus-v-2024-godu/)               
