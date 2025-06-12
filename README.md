@@ -52,7 +52,9 @@ Solana (SPL) – через [SolScan](https://solscan.io/)
 2022 [В чем разница между ERC-20, BEP-20 и TRC-20. Как выбрать сеть для USDT](https://vc.ru/crypto/562930-v-chem-raznica-mezhdu-erc-20-bep-20-i-trc-20-kak-vybrat-set-dlya-usdt)         
 
 ## 🔴 Solana                          
-[youtube: SOLANA: Как создать кошелёк? | Самый простой мануал](https://www.youtube.com/watch?v=PXnsisT0UPo)              
+2025 [youtube: **КАК СОЗДАТЬ SOLANA КОШЕЛЕК - ПРОСТОЙ ГАЙД ДЛЯ НОВИЧКОВ**](https://www.youtube.com/watch?v=FsplB8Qvna0)           
+2024 [youtube: SOLANA: Как создать кошелёк? | Самый простой мануал](https://www.youtube.com/watch?v=PXnsisT0UPo)              
+
 ## 🔴 Tron             
 2020 [youtube: TRON создание и перенос кошелька](https://www.youtube.com/watch?v=XVACRHvT64o)                 
 
