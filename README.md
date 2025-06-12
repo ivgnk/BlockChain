@@ -85,6 +85,10 @@ https://zengo.com  [not op in ru]
      
 
 # Биржи
+## ByBit
+2023 [youtube: Урок для новичков №4. Покупка bitcoin на бирже ByBit и вывод на кошелёк Trust Wallet](https://www.youtube.com/watch?v=N7Sx1AOOfiU)      
+2023 [youtube: Урок для новичков №1. Как установить криптокошелёк на мобильный телефон](https://www.youtube.com/watch?v=OjUqG6dGjLU)          
+
 ## Binance
 [Обходим ограничения Binance 2025 в России. 2 легальных способа](https://tradingstar.org/binance_rf)           
 
