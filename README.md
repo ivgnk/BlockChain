@@ -54,6 +54,10 @@ Solana (SPL) – через [SolScan](https://solscan.io/)
 ## 🔴 Tron             
 
 ## 🔥 Криптошельки                           
+### Cold Storage
+2023 [ Холодный крипто кошелёк на флешке - Пошаговая инструкция создания и настройки. ](https://www.youtube.com/watch?v=ICfzmazG-HQ)         
+
+### Hot Wallet
 **https://metamask.io/ru**    [op in ru]                       
 https://www.exodus.com    [not op in ru]                           
 https://electrum.org/     [not op in ru]                            
@@ -65,10 +69,7 @@ https://zengo.com  [not op in ru]
 
 Некоторые бесплатные горячие кошельки для криптовалюты: MetaMask, Exodus, Binance Chain Wallet
 
-### Cold Storage
-2023 [ Холодный крипто кошелёк на флешке - Пошаговая инструкция создания и настройки. ](https://www.youtube.com/watch?v=ICfzmazG-HQ)         
-
-### MetaMask
+#### MetaMask
 [ Как добавить Биткоин на кошелёк MetaMask. Binance | Uniswap | MetaMask. Заработок на Bitcoin ](https://www.youtube.com/watch?v=qyYaA-Zx9VE)                            
 
      
