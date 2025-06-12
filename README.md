@@ -51,14 +51,14 @@ Solana (SPL) – через [SolScan](https://solscan.io/)
 ## 🔴 Tron             
 
 ## 🔥 Криптошельки                           
-https://www.exodus.com    [not op in ru]             
-https://metamask.io/ru    [op in ru]
-https://electrum.org/
+**https://metamask.io/ru**    [op in ru]                       
+https://www.exodus.com    [not op in ru]                           
+https://electrum.org/     [not op in ru]                            
 
-https://trustwallet.com/ru
-https://www.coinbase.com/ru/wallet
-https://guarda.com/ru
-https://zengo.com
+https://trustwallet.com/ru  [not op in ru]                            
+https://www.coinbase.com/ru/wallet  [not op in ru]                            
+https://guarda.com/ru  [not op in ru]                            
+https://zengo.com  [not op in ru]                            
 
 Некоторые бесплатные горячие кошельки для криптовалюты:
 MetaMask, Exodus, Binance Chain Wallet
