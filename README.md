@@ -56,6 +56,7 @@ Solana (SPL) – через [SolScan](https://solscan.io/)
 2024 [youtube: SOLANA: Как создать кошелёк? | Самый простой мануал](https://www.youtube.com/watch?v=PXnsisT0UPo)              
 
 ## 🔴 Tron             
+2025 [youtube: **ИНСТРУКЦИЯ TRON LINK - гайд от А до Я за 7 минут | кошелек для криптовалюты**](https://www.youtube.com/watch?v=uUCqVmWuQNY)                
 2020 [youtube: TRON создание и перенос кошелька](https://www.youtube.com/watch?v=XVACRHvT64o)                 
 
 
