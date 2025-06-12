@@ -113,7 +113,7 @@ https://www.alfabank.by/partners-project/crypto-card
 
 ### mbank.kg                  
 https://mbank.kg/tariffs                       
-
+2024 [Как открыть и оформить карту Мбанка Киргизии для россиян](https://vc.ru/money/1714189-kak-otkryt-i-oformit-kartu-mbanka-kirgizii-dlya-rossiyan)                
 - - -
 ### Переводы          
 2024 [Как перевести деньги из России в Беларусь в 2024 году](https://www.sravni.ru/text/kak-perevesti-dengi-iz-rossii-v-belarus-v-2024-godu/)               
