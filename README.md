@@ -48,5 +48,18 @@ Solana (SPL) – через [SolScan](https://solscan.io/)
 Наиболе выгоды сети Binance Smart Chain, Solana, Tron (TRC-20)               
 2022 [В чем разница между ERC-20, BEP-20 и TRC-20. Как выбрать сеть для USDT](https://vc.ru/crypto/562930-v-chem-raznica-mezhdu-erc-20-bep-20-i-trc-20-kak-vybrat-set-dlya-usdt)         
 
+## 🔴 Tron             
 
+## 🔥 Криптошельки                           
+https://www.exodus.com    [not op in ru]             
+https://metamask.io/ru    [op in ru]
+https://electrum.org/
+
+https://trustwallet.com/ru
+https://www.coinbase.com/ru/wallet
+https://guarda.com/ru
+https://zengo.com
+
+Некоторые бесплатные горячие кошельки для криптовалюты:
+MetaMask, Exodus, Binance Chain Wallet
 ### 📄 Papers         
