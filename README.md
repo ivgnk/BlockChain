@@ -40,7 +40,7 @@ Solana (SPL): менее $0.01
 Ethereum (ERC-20) – через [Etherscan](https://etherscan.io/)                                      
 Tron (TRC-20) – через [TronScan](https://tronscan.org/)                                   
 BNB Smart Chain (BEP-20) – через BscScan                  
-Polygon (MATIC) – через PolygonScan                  
+Polygon (MATIC) – через [PolygonScan](https://polygonscan.com/)                         
 Solana (SPL) – через SolScan               
 
 
