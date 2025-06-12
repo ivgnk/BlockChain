@@ -59,6 +59,8 @@ Solana (SPL) – через [SolScan](https://solscan.io/)
 2025 [youtube: **ИНСТРУКЦИЯ TRON LINK - гайд от А до Я за 7 минут | кошелек для криптовалюты**](https://www.youtube.com/watch?v=uUCqVmWuQNY)                
 2020 [youtube: TRON создание и перенос кошелька](https://www.youtube.com/watch?v=XVACRHvT64o)                 
 
+2025 [Лучшие биржи с Tron (TRX) в 2025 году: список ТОП-12 криптобирж для торговли](https://profinvestment.com/exchanges-tron-trx)                         
+
 
 ## 🔥 Криптошельки                           
 ### Cold Storage
