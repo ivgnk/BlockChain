@@ -52,10 +52,13 @@ Solana (SPL) – через [SolScan](https://solscan.io/)
 2022 [В чем разница между ERC-20, BEP-20 и TRC-20. Как выбрать сеть для USDT](https://vc.ru/crypto/562930-v-chem-raznica-mezhdu-erc-20-bep-20-i-trc-20-kak-vybrat-set-dlya-usdt)         
 
 ## 🔴 Tron             
+2020 [TRON создание и перенос кошелька](https://www.youtube.com/watch?v=XVACRHvT64o)                 
+
 
 ## 🔥 Криптошельки                           
 ### Cold Storage
 2023 [youtube: Холодный крипто кошелёк на флешке - Пошаговая инструкция создания и настройки. ](https://www.youtube.com/watch?v=ICfzmazG-HQ)         
+
 
 ### Hot Wallet
 **https://metamask.io/ru**    [op in ru]                       
